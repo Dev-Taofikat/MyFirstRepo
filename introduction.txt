@@ -1,0 +1,4 @@
+# Brief Introduction About Myself
+My name is [Your Name]. I am currently learning software development through the ALX program
+And I'm excited to start my tech journey.
+I am passionate about empowering young women and building a future where access to skills and education is possible for all.
