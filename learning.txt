@@ -1,0 +1,3 @@
+My name is Taofikat Adewale, and I have learned so much in this course. 
+I now understand how to create repositories, make commits, and collaborate using GitHub. 
+This journey is helping me grow both technically and personally
